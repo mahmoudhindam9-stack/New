@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Black Screen Overlay</string>
+    <string name="notification_channel_name">Black Screen</string>
+    <string name="notification_title">Black Screen is active</string>
+    <string name="notification_text">Double-tap the black screen to restore the floating button.</string>
+    <string name="overlay_permission_title">Allow overlay</string>
+    <string name="overlay_permission_message">Allow Black Screen Overlay to appear on top of other apps. This is required for the floating button.</string>
+</resources>
